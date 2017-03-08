@@ -1,0 +1,15 @@
+{
+  "name": "hackdetection",
+  "version": "1.0.0",
+  "description": "To detect hacking from log files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prashant",
+  "license": "ISC",
+  "devDependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  }
+}
